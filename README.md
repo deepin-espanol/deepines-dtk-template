@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/deepin-espanol/DTKTest-Template/feature/structure/doc/IMG/example.png">
+<img src="https://raw.githubusercontent.com/deepin-espanol/DTKTest-Template/master/doc/IMG/example.png">
 </p>
 
 # DTK Example
