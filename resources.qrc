@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/dtk-test.svg</file>
+    </qresource>
+</RCC>
