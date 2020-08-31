@@ -22,8 +22,6 @@ PKGCONFIG += dtkwidget
 FORMS += \
     widget.ui
 
-DISTFILES += \
-    image/deepines-template.svg \
-    image/deepines.png \
-    image/deepincard.svg \
-    image/template-dtk.svg
+
+RESOURCES += \
+    imgs.qrc

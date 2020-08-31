@@ -21,10 +21,9 @@ int main(int argc, char *argv[])
      //descrition
      dialog.setProductName("<span>Description</span>");
      //Icons
-        //a.setProductIcon(QIcon(":/imege/deepines-template.svg"));
-        //dialog.setProductIcon(QIcon(":/imege/deepines-template.svg"));
+     dialog.setProductIcon(QIcon("://logo.svg"));
      //Organization logo
-        //dialog.setCompanyLogo(QPixmap(":/image/deepines.png"));
+     dialog.setCompanyLogo(QPixmap("://Logo-Racoon.png"));
      //about
      dialog.setDescription(
          "<span style=' font-size:8pt; font-weight:600;'>Deepin en Español </span>"
