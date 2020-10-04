@@ -5,16 +5,10 @@
 provide a simple DTK application template for your qtcreator.
 
 ## Images
-
-**Template1**
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/deepin-espanol/deepines-dtk-template/master/doc/IMG/example1.png">
-</p>
-
-**Template2**
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/deepin-espanol/deepines-dtk-template/master/doc/IMG/example2.png">
-</p>
+|Template  |Images |
+|--|--|
+|Template1  |<img src="https://raw.githubusercontent.com/deepin-espanol/deepines-dtk-template/master/doc/IMG/example1.png"> |
+|Template2  |<img src="https://raw.githubusercontent.com/deepin-espanol/deepines-dtk-template/master/doc/IMG/example1.png"> |
 
 ## Dependencies
 
